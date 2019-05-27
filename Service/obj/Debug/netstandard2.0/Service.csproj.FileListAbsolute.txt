@@ -1,0 +1,9 @@
+C:\Users\Jackson\jackson-assesment\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\Users\Jackson\jackson-assesment\Service\bin\Debug\netstandard2.0\Service.dll
+C:\Users\Jackson\jackson-assesment\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\Users\Jackson\jackson-assesment\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\Users\Jackson\jackson-assesment\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\jackson-assesment\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\Users\Jackson\jackson-assesment\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\Users\Jackson\jackson-assesment\Service\obj\Debug\netstandard2.0\Service.dll
+C:\Users\Jackson\jackson-assesment\Service\obj\Debug\netstandard2.0\Service.pdb

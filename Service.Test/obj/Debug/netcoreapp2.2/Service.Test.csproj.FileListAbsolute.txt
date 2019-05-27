@@ -1,0 +1,17 @@
+C:\Users\Jackson\jackson-assesment\Service.Test\obj\Debug\netcoreapp2.2\Service.Test.csprojAssemblyReference.cache
+C:\Users\Jackson\jackson-assesment\Service.Test\obj\Debug\netcoreapp2.2\Service.Test.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\jackson-assesment\Service.Test\obj\Debug\netcoreapp2.2\Service.Test.AssemblyInfoInputs.cache
+C:\Users\Jackson\jackson-assesment\Service.Test\obj\Debug\netcoreapp2.2\Service.Test.AssemblyInfo.cs
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\Service.Test.deps.json
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\Service.Test.runtimeconfig.json
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\Service.Test.runtimeconfig.dev.json
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\Service.Test.dll
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\Service.Test.pdb
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\Jackson\jackson-assesment\Service.Test\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Jackson\jackson-assesment\Service.Test\obj\Debug\netcoreapp2.2\Service.Test.csproj.CopyComplete
+C:\Users\Jackson\jackson-assesment\Service.Test\obj\Debug\netcoreapp2.2\Service.Test.dll
+C:\Users\Jackson\jackson-assesment\Service.Test\obj\Debug\netcoreapp2.2\Service.Test.pdb
